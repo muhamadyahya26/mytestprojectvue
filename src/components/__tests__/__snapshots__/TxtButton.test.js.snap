@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TxtButton.vue should render correctly 1`] = `
+<div>
+  <label
+    class="lbl-txt"
+  >
+    Hai
+  </label>
+   
+  <button
+    class="btn-action"
+  >
+    Contoh tombol
+  </button>
+</div>
+`;
